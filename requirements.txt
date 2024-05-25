@@ -1,0 +1,6 @@
+python-dotenv
+google-generativeai
+tqdm
+pandas
+numpy
+pdfminer.six
